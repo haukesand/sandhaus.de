@@ -1,0 +1,328 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="haukesandhaus.de" resolutions="1x" timestamp="1634659889469">
+  <folder name="assets">
+    <file name="break.json" crc="3908102928" seo="true" mt="1508787692000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="421131645"/>
+    <file name="index.css" crc="251216667" ref="index"/>
+    <file name="nomq_index.css" crc="4241987466" ref="index"/>
+    <file name="projects-2016.css" crc="349885121" ref="projects-2016"/>
+    <file name="nomq_projects-2016.css" crc="4167674057" ref="projects-2016"/>
+    <file name="projects-early.css" crc="3904776011" ref="projects-early"/>
+    <file name="nomq_projects-early.css" crc="490975872" ref="projects-early"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:projects-2016:projects-early"/>
+    <file name="museutils.js" crc="3939489907" ref="index:projects-2016:projects-early"/>
+    <file name="whatinput.js" crc="86476730" ref="index:projects-2016:projects-early"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:projects-2016:projects-early"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:projects-2016:projects-early"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:projects-2016:projects-early"/>
+    <file name="require.js" crc="4177726516" ref="index:projects-2016:projects-early"/>
+  </folder>
+  <folder name="images">
+    <file name="finishedride.gif" crc="3944676737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="swerve.gif" crc="121266409" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="speedup.gif" crc="4076038349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="csm_tafel_front_1_3e446daa25.jpg" crc="147823375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="electriccar2.jpg" crc="4281937755" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 1118x823.jpg" crc="211263995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="verformen2edit.png" crc="184425104" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuellen-crop-u1640.png" crc="4129915117" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="verpackung.jpg" crc="3979948623" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="render2357x505.jpg" crc="4237159965" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="csm_tafel_front_1_3e446daa25225x221.jpg" crc="292809477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="electriccar2564x225.jpg" crc="3949641128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuellen398x317.png" crc="6757600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="verformen2edit438x334.png" crc="3965877487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="render2.jpg" crc="291969716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="csm_tafel_front_1_3e446daa25235x232.jpg" crc="3799965787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="electriccar2597x238.jpg" crc="4126397780" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuellen284x227.png" crc="184503095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="verformen2edit306x234.png" crc="147005814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="verpackung296x374.jpg" crc="65092672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="render2265x374.jpg" crc="3771496508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="speedup-crop-u1388.jpg" crc="139963300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="swerve-crop-u1390.jpg" crc="3843648419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="electriccar2-crop-u6407.jpg" crc="349839162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="verformen2edit-crop-u1619.png" crc="3846595281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fuellen-crop-u16402.png" crc="4049736478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="verpackung-crop-u1626.jpg" crc="232452587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:projects-2016:projects-early"/>
+    <file name="pasted image 800x300.jpg" crc="324489891" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 800x449.jpg" crc="391119043" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="eingefuegtes bild 1920x1080.jpg" crc="463967789" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080.jpg" crc="71158100" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x10802.jpg" crc="137383074" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x10803.jpg" crc="3769021242" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="aline.gif" crc="4192164577" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 400x599.jpg" crc="3772570503" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 217x300.jpg" crc="3870973131" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 557x645.jpg" crc="482800020" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="fullticketmap.jpg" crc="4065016838" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="smartbutoonpirate.gif" crc="4155828078" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="img_2595.jpg" crc="89223946" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="gamemov-00000-509167_2.gif" crc="4126648050" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="cover.jpg" crc="469148722" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="eingefuegtes bild 1920x1080387x218.jpg" crc="4176042087" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080387x218.jpg" crc="363717156" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080387x2182.jpg" crc="326390530" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080387x2183.jpg" crc="3875651521" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="img_2595280x211.jpg" crc="4147558201" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 800x300580x218.jpg" crc="159356848" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="eingefuegtes bild 1920x1080290x163.jpg" crc="235470068" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080290x164.jpg" crc="4156997912" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080291x164.jpg" crc="3862394942" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080291x1642.jpg" crc="15152221" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 400x599288x431.jpg" crc="151147642" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 557x645327x378.jpg" crc="4269105188" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="fullticketmap261x378.jpg" crc="4146137278" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="img_2595213x160.jpg" crc="52797660" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="cover189x263.jpg" crc="536642588" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 800x300560x210.jpg" crc="506046608" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="eingefuegtes bild 1920x1080280x158.jpg" crc="4022713785" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080280x158.jpg" crc="3971190633" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080281x158.jpg" crc="4070313807" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 1920x1080281x1582.jpg" crc="4245634865" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 400x599280x419.jpg" crc="4274169878" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="pasted image 557x645312x361.jpg" crc="4215501441" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="fullticketmap249x361.jpg" crc="4025385021" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="img_2595209x157.jpg" crc="14133943" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="cover-crop-u2332.jpg" crc="434665669" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="home.jpg" crc="195915216" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="video.jpg" crc="302949059" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="0000.jpg" crc="284349371" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+      <caption webpage="projects-early" alt=""/>
+      <caption webpage="projects-early" alt=""/>
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="camera.jpg" crc="12108951" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+      <caption webpage="projects-early" alt=""/>
+      <caption webpage="projects-early" alt=""/>
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="home381x262.jpg" crc="224702690" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="video379x262.jpg" crc="76551900" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="home289x198.jpg" crc="484401008" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="video287x198.jpg" crc="4127065599" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="home291x200.jpg" crc="329711915" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="video289x200.jpg" crc="3854664993" seo="true" ref="projects-early">
+      <caption webpage="projects-early" alt=""/>
+    </file>
+    <file name="profile.jpg" crc="524015594" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile294x295.jpg" crc="4047104333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile221x221.jpg" crc="4159153044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile165x166.jpg" crc="110118687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vitrinehall.jpg" crc="4250322104" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="vitrinescreen.jpg" crc="4190900193" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="vitrinehall499x331.jpg" crc="4029677376" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="vitrinehall398x264.jpg" crc="3808062748" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+    <file name="vitrinehall391x259.jpg" crc="150004776" seo="true" ref="projects-2016">
+      <caption webpage="projects-2016" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4134284823" seo="true" mt="1634659757176" redirect="true"/>
+  <file name="projects-2016.html" crc="483422777" seo="true" mt="1634659718464" redirect="true"/>
+  <file name="projects-early.html" crc="71262947" seo="true" mt="1634659824556" redirect="true"/>
+</manifest>
